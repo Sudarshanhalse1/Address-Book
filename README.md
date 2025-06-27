@@ -1,6 +1,6 @@
 
 ---
-# ✅ 9. Address Book
+# Address Book
 
 ## Description
 This project is a simple contact management system built in C.  
