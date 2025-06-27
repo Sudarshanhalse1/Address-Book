@@ -1,12 +1,22 @@
-## Project : Address Book
 
-### Description
-A contact management system developed in C with support for adding, deleting, and searching contacts.
+---
+# ✅ 9. Address Book
 
-### Features
-- File-based storage
+## Description
+This project is a simple contact management system built in C.  
+It allows users to store, search, and delete contact information in a file.
+
+## Features
+- Add, delete, sort, and search contacts
+- File-based data storage
 - Menu-driven interface
-- Error checking
 
-### Tech Stack
-C, File I/O, Pointers, Structs
+## Tech Stack
+- C Programming
+- File I/O
+- Structs and Pointers
+
+## How to Run
+1. Compile the program:
+   ```bash
+   gcc *.c -o address_book
